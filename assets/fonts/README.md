@@ -1,0 +1,1 @@
+Helvetica.ttf was used to generate text in the heatmaps. It must be present or replaced by another font in order to successfully generate the heatmaps.
